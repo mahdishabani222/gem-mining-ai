@@ -1,1 +1,0 @@
-# gem-mining-ai
